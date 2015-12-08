@@ -1,0 +1,7 @@
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\bin\Debug\SqlProducerTests.dll
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\bin\Debug\SqlProducerTests.pdb
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\bin\Debug\SqlProducer.dll
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\bin\Debug\SqlProducer.pdb
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\obj\Debug\SqlProducerTests.csprojResolveAssemblyReference.cache
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\obj\Debug\SqlProducerTests.dll
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducerTests\obj\Debug\SqlProducerTests.pdb

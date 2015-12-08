@@ -1,0 +1,4 @@
+C:\_SourcesC#\Новая папка\SqlProducer\DataLayer\bin\Debug\DataLayer.dll
+C:\_SourcesC#\Новая папка\SqlProducer\DataLayer\bin\Debug\DataLayer.pdb
+C:\_SourcesC#\Новая папка\SqlProducer\DataLayer\obj\Debug\DataLayer.dll
+C:\_SourcesC#\Новая папка\SqlProducer\DataLayer\obj\Debug\DataLayer.pdb

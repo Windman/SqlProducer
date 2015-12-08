@@ -1,0 +1,10 @@
+C:\_SourcesC#\Новая папка\SqlProducer\SqlProducer\bin\Debug\SqlProducer.dll
+C:\_SourcesC#\Новая папка\SqlProducer\SqlProducer\bin\Debug\SqlProducer.pdb
+C:\_SourcesC#\Новая папка\SqlProducer\SqlProducer\obj\Debug\SqlProducer.dll
+C:\_SourcesC#\Новая папка\SqlProducer\SqlProducer\obj\Debug\SqlProducer.pdb
+C:\_SourcesC#\Новая папка\SqlProducer\SqlProducer\obj\Debug\SqlProducer.csprojResolveAssemblyReference.cache
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducer\bin\Debug\SqlProducer.dll
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducer\bin\Debug\SqlProducer.pdb
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducer\obj\Debug\SqlProducer.dll
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducer\obj\Debug\SqlProducer.pdb
+C:\_SourcesC#\SqlProducer\SqlProducer\SqlProducer\obj\Debug\SqlProducer.csprojResolveAssemblyReference.cache
